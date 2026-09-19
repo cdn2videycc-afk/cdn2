@@ -1,0 +1,7 @@
+name = "cdn2-shortener"
+main = "index.js"
+compatibility_date = "2026-09-19"
+
+[[kv_namespaces]]
+binding = "LINKS"
+id = "apna_kv_id_yahan_dalein"
